@@ -1,0 +1,14 @@
+{
+  "name": "maki-client-fabric",
+  "version": "0.0.0",
+  "description": "provides a service worker using fabric to maki apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "maki"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT"
+}
